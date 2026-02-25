@@ -1,1 +1,22 @@
-
+[
+  {
+    "id": "cbse-10-maths-2019-set1",
+    "board": "CBSE",
+    "class": "10",
+    "stream": "",
+    "subject": "Mathematics",
+    "year": "2019",
+    "title": "Mathematics 2019 - Set 1",
+    "pdfUrl": "https://example.com/papers/cbse/10/maths/2019/set1.pdf"
+  },
+  {
+    "id": "cbse-12-sci-phy-2020-set1",
+    "board": "CBSE",
+    "class": "12",
+    "stream": "SCIENCE",
+    "subject": "Physics",
+    "year": "2020",
+    "title": "Physics 2020 - Set 1",
+    "pdfUrl": "https://example.com/papers/cbse/12/science/physics/2020/set1.pdf"
+  }
+]
